@@ -141,6 +141,12 @@ header ul li.active:after {
           transform: translateX(-50%);
 }
 
+.links a {
+  list-style-type: none;
+  text-decoration: none;
+  color: #ffbe00;
+}
+
 header .search_nav {
   display: -webkit-box;
   display: -ms-flexbox;
